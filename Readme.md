@@ -4,9 +4,9 @@
 * [CustomEvents.cs](./CS/WebSite/App_Code/CustomEvents.cs) (VB: [CustomEvents.vb](./VB/WebSite/App_Code/CustomEvents.vb))
 * [Helpers.cs](./CS/WebSite/App_Code/Helpers.cs) (VB: [Helpers.vb](./VB/WebSite/App_Code/Helpers.vb))
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
-* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 * [NewPage.aspx](./CS/WebSite/NewPage.aspx) (VB: [NewPage.aspx](./VB/WebSite/NewPage.aspx))
-* [NewPage.aspx.cs](./CS/WebSite/NewPage.aspx.cs) (VB: [NewPage.aspx](./VB/WebSite/NewPage.aspx))
+* [NewPage.aspx.cs](./CS/WebSite/NewPage.aspx.cs) (VB: [NewPage.aspx.vb](./VB/WebSite/NewPage.aspx.vb))
 <!-- default file list end -->
 # How to redirect a user to a separate webpage, according to the selected appointment
 
